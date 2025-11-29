@@ -1,8 +1,7 @@
 site_name: SPECTRA Documentation
 site_description: Comprehensive documentation for SPECTRA - Modular AI-powered data pipelines for Microsoft Fabric
-# site_url will be set automatically by GitHub Pages
-# Update this if using a custom domain
-site_url: https://spectracoresolutions.github.io/docs/
+# Custom domain configured via CNAME file
+site_url: https://docs.spectradatasolutions.com
 repo_url: https://github.com/SPECTRACoreSolutions/docs
 repo_name: SPECTRACoreSolutions/docs
 edit_uri: edit/main/
