@@ -74,10 +74,10 @@ nav:
     - Fabric SDK: projects/fabric-sdk.md
     - Zephyr: projects/zephyr.md
   - Infrastructure:
-    - Overview: infrastructure/index.md
-    - Alana: infrastructure/alana.md
-    - Tooling: infrastructure/tooling.md
-    - Deployment: infrastructure/deployment.md
+    - Overview: labs/index.md
+    - Alana: labs/alana.md
+    - Tooling: labs/tooling.md
+    - Deployment: labs/deployment.md
   - Operations:
     - Overview: operations/index.md
     - Playbooks: operations/playbooks.md

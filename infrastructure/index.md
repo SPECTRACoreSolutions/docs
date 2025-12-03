@@ -10,7 +10,7 @@ SPECTRA infrastructure documentation covers deployment, CI/CD, and development t
 
 ## Quick Links
 
-- [Alana Quick Connect](../infrastructure/alana.md#quick-connect)
-- [Railway Deployment Guide](../infrastructure/deployment.md#railway)
-- [GitHub Actions Workflows](../infrastructure/tooling.md#workflows)
+- [Alana Quick Connect](../labs/alana.md#quick-connect)
+- [Railway Deployment Guide](../labs/deployment.md#railway)
+- [GitHub Actions Workflows](../labs/tooling.md#workflows)
 

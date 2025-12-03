@@ -12,7 +12,7 @@ Railway is the recommended platform for quick cloud deployments.
 2. Configure environment variables
 3. Deploy!
 
-See [Railway Deployment Guide](../../Core/infrastructure/tooling/docs/railway-deployment.md) for details.
+See [Railway Deployment Guide](../../Core/labs/tooling/docs/railway-deployment.md) for details.
 
 ## GitHub Pages
 

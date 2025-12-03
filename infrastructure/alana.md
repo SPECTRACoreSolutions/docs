@@ -5,6 +5,7 @@ Alana is SPECTRA's cloud-based AI development environment powered by Cursor IDE.
 ## Overview
 
 Alana provides:
+
 - Persistent cloud development environment
 - Full Cursor IDE experience
 - SSH access from anywhere
@@ -16,7 +17,7 @@ Alana provides:
 ```bash
 # Add to ~/.ssh/config
 Host alana
-    HostName devcontainer-production.up.railway.app
+    HostName spectra-assistant-prod.up.railway.app
     Port 2222
     User alana
     IdentityFile ~/.ssh/id_rsa
@@ -27,5 +28,4 @@ Cmd/Ctrl+Shift+P → "Remote-SSH: Connect to Host" → alana
 
 ## Documentation
 
-Full documentation available in `Core/infrastructure/README.md` and `Core/infrastructure/tooling/docs/alana.md`.
-
+Full documentation available in `Core/labs/README.md` and `Core/labs/tooling/docs/alana.md`.

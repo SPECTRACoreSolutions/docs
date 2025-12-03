@@ -17,7 +17,7 @@ SPECTRA is a modular framework for building data pipelines that follow a standar
 
 - 🚀 [Getting Started](getting-started/index.md) - New to SPECTRA? Start here
 - 📚 [Framework Documentation](framework/index.md) - Core framework and utilities
-- 🏗️ [Infrastructure](infrastructure/index.md) - Deployment and infrastructure guides
+- 🏗️ [Infrastructure](labs/index.md) - Deployment and infrastructure guides
 - 🛠️ [CLI Tools](cli/index.md) - Command-line interface reference
 - 📖 [Standards](standards/index.md) - Coding standards and best practices
 

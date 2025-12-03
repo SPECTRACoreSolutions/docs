@@ -15,7 +15,7 @@ docs/
 ├── getting-started/    # Getting started guides
 ├── framework/         # Framework documentation
 ├── projects/          # Project docs (auto-generated)
-├── infrastructure/    # Infrastructure guides
+├── labs/    # Infrastructure guides
 ├── operations/        # Operational docs
 ├── standards/         # Standards and guidelines
 ├── contributing/      # Contribution guides

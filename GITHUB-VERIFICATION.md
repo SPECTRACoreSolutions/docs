@@ -56,3 +56,10 @@ The TXT record should be:
 - ⏳ TXT verification record needed (get code from GitHub first)
 - ⏳ Domain verification pending
 
+
+
+
+
+
+
+

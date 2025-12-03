@@ -12,7 +12,7 @@ Standardized GitHub Actions workflows for:
 
 ## Documentation
 
-See `Core/infrastructure/tooling/docs/` for detailed documentation on:
+See `Core/labs/tooling/docs/` for detailed documentation on:
 - Railway deployment
 - Package distribution
 - CLI tools
